@@ -22,9 +22,9 @@ body {
 }
 
 .header {
-  background: url("images/coffee road house.png") no-repeat center center;
+  background: url("images/coffee road shop.jpg") no-repeat center center;
   background-size: cover;
-  height: 800px;
+  height: 500px;
   text-align: center;
 }
 
